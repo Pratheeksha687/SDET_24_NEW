@@ -7,5 +7,6 @@ public class ContactTest {
 	public void cntTest()
 	{
 		System.out.println("hi surefire test");
+		System.out.println("poll scm test");
 	}
 	}
